@@ -1,0 +1,12 @@
+{
+  "name": "camel-to-snake",
+  "version": "1.0.0",
+  "description": "Light weight object converter from camel case to snake case",
+  "main": "main.ts",
+  "scripts": {
+    "start": "tsc main.ts && node main.js"
+  },
+  "repository": "git@github.com:NelioEspindulaJr/camel-to-snake.git",
+  "author": "Nélio Espíndula Junior <nelio.espindula@zig.tickets>",
+  "license": "MIT"
+}
